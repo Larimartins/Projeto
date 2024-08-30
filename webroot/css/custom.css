@@ -92,15 +92,15 @@ html, body {
 
 /* Wrapper para o conteúdo principal */
 .content {
-    min-height: calc(100vh - 50px); /* Ajuste 50px para a altura do seu footer */
-    padding-bottom: 50px; /* Para evitar que o conteúdo se sobreponha ao footer */
+    min-height: calc(100vh - 100px); 
+    padding-bottom: 50px; 
 }
 
 /* Estilo do footer */
 footer {
     height: 50px; /* Ajuste a altura conforme necessário */
     background-color: #f1f1f1; /* Cor de fundo do footer */
-    text-align: center; /* Centralizar o texto */
+    text-align: center; 
     position: absolute;
     bottom: 0;
     width: 100%;
