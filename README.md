@@ -1,3 +1,4 @@
+Tabelas solicitadas na atividade para melhor funcionamento do blog. (https://github.com/user-attachments/assets/f689d083-f824-404b-add0-7aa3093be426)
 L@r Blog.com 
 
 Foi criado para uma breve apresentação, utilizando o cakephp versão 4
